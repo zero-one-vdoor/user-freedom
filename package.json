@@ -1,0 +1,23 @@
+{
+  "name": "user-freedom",
+  "version": "1.0.0",
+  "description": "User Freedom first, Project manager sucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zero-one-vdoor/user-freedom.git"
+  },
+  "keywords": [
+    "user",
+    "freedom"
+  ],
+  "author": "George Afrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-one-vdoor/user-freedom/issues"
+  },
+  "homepage": "https://github.com/zero-one-vdoor/user-freedom#readme"
+}
